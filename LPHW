@@ -3,3 +3,30 @@ learn a programming language:
 1. Go through each exercise.
 2. Type in each sample exactly.
 3. Make it run.
+
+the three most essential skills that a beginning programmer needs
+to know: reading and writing, attention to detail, and spotting differences.
+
+
+Reading and Writing
+It seems stupidly obvious, but if you have a problem typing, you will have a problem learning to
+code. Especially if you have a problem typing the fairly odd characters in source code. Without
+this simple skill, you will be unable to learn even the most basic things about how software works.
+Typing the code samples and getting them to run will help you learn the names of the symbols,
+get you familiar with typing them, and get you reading the language.
+Attention to Detail
+The one skill that separates bad programmers from good programmers is attention to detail. In
+fact, it’s what separates the good from the bad in any profession. Without paying attention to the
+tiniest details of your work, you will miss key elements of what you create. In programming, this
+is how you end up with bugs and diffi cult- to- use systems.
+By going through this book and copying each example exactly, you will be training your brain to
+focus on the details of what you are doing, as you are doing it.
+Spotting Differences
+A very important skill—which most programmers develop over time— is the ability to visually
+notice differences between things. An experienced programmer can take two pieces of code
+that are slightly different and immediately start pointing out the differences. Programmers have
+invented tools to make this even easier, but we won’t be using any of these. You fi rst have to train
+your brain the hard way—then you can use the tools.
+While you do these exercises, typing each one in, you will make mistakes. It’s inevitable; even seasoned
+programmers make a few. Your job is to compare what you have written to what’s required and fi x
+all the differences. By doing so, you will train yourself to notice mistakes, bugs, and other problems.
