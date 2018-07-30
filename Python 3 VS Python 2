@@ -1,0 +1,5 @@
+The Python community has been moving from Python 2 to Python 3 for a long time and we felt that it was time to convert our course. In a beginning course and this specialization, the differences between the two versions of Python are pretty minimal:
+
+The print statement has become the print function.
+The raw_input function has become input.
+The only other significant change is how Python handles various character sets like (次 - Tsugi) and (코스 - Koseu). Lecture 12.3 in this course covers how we handle those character sets.
