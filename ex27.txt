@@ -1,0 +1,57 @@
+Memorizing Logic
+
+and or not !=(not equal) 
+==(equal) >=(greater-than-equal) <=(less-than-equal)
+Ture False
+
+The Truth Tables
+_________________________
+|	NOT		|	True?	|
+|___________|___________|
+| not False |	Ture	|
+| not Ture	|	False	|
+_________________________
+|	OR		|	True?	|
+|___________|___________|	 
+| T or F	|	True	|
+| T or T	|	True	|
+| F or T	|	True	|
+| F or F	|	False	|
+_________________________
+|	AND		|	True?	|
+|___________|___________|
+| T and T	|	True	|
+| T and F	|	False	|
+| F and T	|	False	|
+| F and F	|	False	|
+
+_________________________
+|	NOT	OR	|	True?	|
+|___________|___________|
+| not(TorF)	|	False	|
+| not(TorT)	|	False	|
+| not(ForT)	|	False	|
+| not(ForF)	|	True	|
+_________________________
+|	NOT	AND	|	True?	|
+|___________|___________|
+|not(TandT)	|	False	|
+|not(TandF)	|	True	|
+|not(FandT)	|	True	|
+|not(FandF)	|	True	|
+
+_________________________
+|	!=		|	True?	|
+|___________|___________|
+|	1!=1	|	False	|
+|	1!=0	|	True	|
+|	0!=1	|	True	|
+|	0!=0	|	False	|
+
+_________________________
+|	==		|	True?	|
+|___________|___________|
+|	1==1	|	True	|
+|	1==0	|	False	|
+|	0==1	|	False	|
+|	0==0	|	True	|

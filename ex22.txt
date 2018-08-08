@@ -1,0 +1,43 @@
+list of what i learn so far
+
+print :  print() show the string or number or variable value in the ()
+# :		 comment some words in a line to explain what the code does
+" " or ' ': inside are strings
++ - * / > < >= <= : math 
+% : math caclulate the left ex: 24 % 5 = 4
+True :	bolean 1
+False:	bolean 0
+= : give a variable defination
+%s : defined string in a string <for user view>
+%d : defined num in a string 
+%r : defined raw data in a string  <for development and testing>
+" " % (): call the defined %s or %d or %r
+"." * 10: equal 10 times of "." ..........
+
+format = (%r %r %r) : define the format
+/n : changed to next line
+/t : a tablet equal to 4 space
+""" """: multi-lines strings
+input() : get something from commend line
+CTRL + C : quit python
+
+sys : system library
+argv : argument module unwrap the strings you typed in the commend line
+from " " import ' ' : from "library" import the module ' ' to use
+
+script : code write in the commend line
+prompt : >
+use_name :
+file_name:
+open :	open a file
+close() : close a file
+write : write into a file
+read : read a file
+truncate : clear a file
+in_file : 
+out_file:
+
+def name(var1, var2): define a function
+
+
+
