@@ -1,0 +1,37 @@
+# Symbol Review
+
+Keywords
+
+and del from not while as elif global or with assert else if
+pass yield break except import print class exec in raise continue
+finally is return def for lambda try
+
+Data Types
+
+True False None strings numbers floats lists
+
+String Escape Sequences
+
+\\ \' \" \a \b \f\ \n \r \t \v
+
+String Formats
+
+%d %i %o %u %x %X %e %E %f %F %g %G %c %r %s %%
+
+Operators
+
++ - * ** / // % < > <= >= == != <> ( ) [ ] { } @ , : .
+= ; += -= *= /= //= %= **=
+
+Reading Code
+
+	going through and make note of the following:
+	1 Functions and what they do.
+	2 Where each variable is first given a value.
+	3 Any varialbe with the same names in different parts of the program.
+	4 Any if-statements without else clauses.
+	5 Any while-loops that might not end.
+	6 Finally, any parts of code that you can not understand for whatever reason.
+
+
+
